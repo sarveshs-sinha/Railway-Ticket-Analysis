@@ -60,7 +60,7 @@ Created useful features such as:
 ## 📁 Project Structure
 
 ```text
-├── Railway Ticket Confirmation(2).csv
+├── Railway Ticket Confirmation.csv
 ├── 1_Railway_Cleaning.ipynb
 ├── 2_Railway_Featuring.ipynb
 ├── 3_Railway_EDA.ipynb
